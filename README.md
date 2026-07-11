@@ -28,16 +28,16 @@
 <h3 align="center">Featured Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/Veeresh5027/vpMART" title="E-commerce app — Spring Boot + Angular, secure auth, product management">
+  <a href="https://github.com/Veeresh5027/vpMART_app_server" title="E-commerce app — Spring Boot + Angular, secure auth, product management">
     <img src="https://img.shields.io/badge/vpMART-6c757d?style=flat" alt="vpMART">
   </a>
-  <a href="https://github.com/Veeresh5027/exam-portal" title="Role-based online examination platform">
+  <a href="https://github.com/Veeresh5027/exam_server" title="Role-based online examination platform">
     <img src="https://img.shields.io/badge/Exam_Portal-6c757d?style=flat" alt="Exam Portal">
   </a>
-  <a href="https://github.com/Veeresh5027/spring-boot-rest-api" title="Production-style REST APIs: validation, exception handling, layered architecture">
+  <a href="https://github.com/Veeresh5027/REST_API" title="Production-style REST APIs: validation, exception handling, layered architecture">
     <img src="https://img.shields.io/badge/Spring_Boot_REST_API-6c757d?style=flat" alt="Spring Boot REST API">
   </a>
-  <a href="https://github.com/Veeresh5027/microservices-architecture" title="Scalable microservice architecture with API Gateway and inter-service communication">
+  <a href="https://github.com/Veeresh5027/Microservices_Architecture" title="Scalable microservice architecture with API Gateway and inter-service communication">
     <img src="https://img.shields.io/badge/Microservices_Architecture-6c757d?style=flat" alt="Microservices Architecture">
   </a>
 </p>
@@ -45,7 +45,7 @@
 <hr>
 
 <p align="center">
-  <a href="./Veeresh_Pattar_Resume.pdf" title="Download resume (PDF)">
+  <a href="./Veeresh_Pattar_Java_SDE.pdf" title="Download resume (PDF)">
     <img src="https://img.shields.io/badge/Resume-34495e?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://github.com/Veeresh5027" title="View GitHub profile">
