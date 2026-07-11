@@ -45,16 +45,17 @@
 <hr>
 
 <p align="center">
-  <a href="./Veeresh_Pattar_Java_SDE.pdf" title="Download resume (PDF)">
+  <a href="./Veeresh_Pattar_Java_SDE.pdf?raw=true" title="Download resume (PDF)">
     <img src="https://img.shields.io/badge/Resume-34495e?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://github.com/Veeresh5027" title="View GitHub profile">
     <img src="https://img.shields.io/badge/GitHub-34495e?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:veereshpattar5027@gmail.com" title="Send me an email">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=veereshpattar5027@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Email-34495e?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 <br>
 
